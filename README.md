@@ -83,9 +83,20 @@ The Iris dataset contains four main features:
 - Petal Length
 - Petal Width
 
-The target consists of three flower species:
+---
 
-```text
-Iris-setosa
-Iris-versicolor
-Iris-virginica
+## Titanic Survival Prediction — Machine Learning Project
+
+The Titanic Survival Prediction project is a Machine Learning classification project that predicts whether a passenger survived the Titanic disaster based on different passenger characteristics.
+
+The project follows the complete ML workflow, starting from data preprocessing and exploratory data analysis (EDA) to model training, evaluation, and prediction.
+
+The project explores several classification algorithms:
+
+Logistic Regression
+K-Nearest Neighbors (KNN)
+Support Vector Machine (SVM)
+Naive Bayes
+Decision Tree
+
+Hyperparameter experimentation is also performed to improve model performance, such as finding a suitable K value for KNN and experimenting with different SVM kernels.
